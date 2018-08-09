@@ -1,0 +1,7 @@
+[package]
+name = "semmed"
+version = "0.1.0"
+authors = ["Patrick Killean <pat.killean@gmail.com>"]
+
+[dependencies]
+csv = "1"
